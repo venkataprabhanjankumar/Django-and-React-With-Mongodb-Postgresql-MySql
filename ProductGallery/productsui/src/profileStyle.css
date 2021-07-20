@@ -1,0 +1,25 @@
+.content {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  padding-top: 40px;
+  transform: translate(-50%, -50%);
+}
+
+.main-text {
+  height: 500px;
+  width: 800px;
+}
+
+.main-text p {
+  color: #747474;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.main-text p span {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #747474;
+}
