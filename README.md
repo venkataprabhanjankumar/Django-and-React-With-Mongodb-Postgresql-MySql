@@ -2,7 +2,7 @@
 
 <h3>Structure Of Databases</h3>
 <br/>
-![Screenshot](dbstructure.png)
+![dbstructure](https://user-images.githubusercontent.com/84016030/126316986-904046a2-92e5-4b34-bc1f-c7329bccb027.PNG)
 
 to run the project follow the below steps
 
