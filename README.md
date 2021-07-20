@@ -2,7 +2,7 @@
 
 <h3>Structure Of Databases</h3>
 <br/>
-<img src="https://drive.google.com/file/d/1ZaOj--6CYi2MPKyvsNFXIvEAkqWCfzsz/view?usp=sharing" alt="/"/>
+<img src="dbstructure.png" alt="/"/>
 
 to run the project follow the below steps
 
