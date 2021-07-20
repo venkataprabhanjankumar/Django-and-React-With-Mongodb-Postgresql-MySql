@@ -2,7 +2,7 @@
 
 <h3>Structure Of Databases</h3>
 <br/>
-<img src="dbstructure.png" alt="/"/>
+![Screenshot](dbstructure.png)
 
 to run the project follow the below steps
 
